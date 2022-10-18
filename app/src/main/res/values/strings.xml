@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">GDSC</string>
+    <string name="app_title">"Teyvat'sUtilityCenter"</string>
+    <string name="toastText">"Clicked"</string>
+    <string name="ActivewCodes">"ActiveCodes"</string>
+    <string name="AllCodes">"AllCodes"</string>
+    <string-array name="characterlist">
+        <item>aether</item>
+        <item>lumine</item>
+        <item>albedo</item>
+        <item>amber</item>
+        <item>barbara</item>
+        <item>bennett</item>
+        <item>diluc</item>
+        <item>diona</item>
+        <item>eula</item>
+        <item>fischl</item>
+        <item>jean</item>
+        <item>kaeya</item>
+        <item>klee</item>
+        <item>lisa</item>
+        <item>mona</item>
+        <item>noelle</item>
+        <item>razor</item>
+        <item>rosaria</item>
+        <item>sucrose</item>
+        <item>venti</item>
+        <item>beidou</item>
+        <item>chongyun</item>
+        <item>ganyu</item>
+        <item>hu_tao</item>
+        <item>keqing</item>
+        <item>ningguang</item>
+        <item>qiqi</item>
+        <item>shenhe</item>
+        <item>xiangling</item>
+        <item>xiao</item>
+        <item>xingqiu</item>
+        <item>xinyan</item>
+        <item>yanfei</item>
+        <item>yelan</item>
+        <item>yun_jin</item>
+        <item>zhongli</item>
+        <item>arataki_itto</item>
+        <item>gorou</item>
+        <item>kaedehara_kazuha</item>
+        <item>kamisato_ayaka</item>
+        <item>kamisato_ayato</item>
+        <item>kujou_sara</item>
+        <item>kuki_shinobu</item>
+        <item>raiden_shogun</item>
+        <item>sangonomiya_kokomi</item>
+        <item>sayu</item>
+        <item>shikanoin_heizou</item>
+        <item>thoma</item>
+        <item>yae_miko</item>
+        <item>yoimiya</item>
+        <item>candace</item>
+        <item>collei</item>
+        <item>cyno</item>
+        <item>dori</item>
+        <item>layla</item>
+        <item>nahida</item>
+        <item>nilou</item>
+        <item>tighnari</item>
+        <item>tartaglia</item>
+    </string-array>
+    <string-array name="redeemcode">
+        <item></item>
+    </string-array>
+</resources>
